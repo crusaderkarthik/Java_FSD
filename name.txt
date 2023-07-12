@@ -1,0 +1,3 @@
+Name of the employee: Karthik
+DOB: DATE
+PLACE: EARTH
